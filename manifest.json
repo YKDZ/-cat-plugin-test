@@ -1,5 +1,5 @@
 {
   "name": "Test Plugin",
-  "version": "0.1.0",
-  "packageDotJson": "package.json"
+  "packageDotJson": "package.json",
+  "iconURL": "https://unocss.dev/logo.svg"
 }
